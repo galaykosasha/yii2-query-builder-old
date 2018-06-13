@@ -1,5 +1,5 @@
 {
-    "name": "galaykosasha/yii2-query-builder",
+    "name": "galaykosasha/yii2-query-builder-old",
     "description": "Extension for Yii2 Framework to work with jQuery QueryBuilder",
     "keywords": ["yii2", "dynamic", "query", "builder", "querybuilder", "interface"],
     "type": "yii2-extension",
